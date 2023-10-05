@@ -2,7 +2,11 @@
 Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
 # SharpDevelop 3.2.1.6466
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AfraidDnsUpdater", "AfraidDnsUpdater.csproj", "{EE39B8A9-C231-448D-AEAD-AC5559573A3B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AfraidDnsUpdater", "AfraidDnsUpdater\AfraidDnsUpdater.csproj", "{EE39B8A9-C231-448D-AEAD-AC5559573A3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpdaterService", "UpdaterService\UpdaterService.csproj", "{D4973F83-F85E-4462-9EE5-BC26B88BC5AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceUninstall", "ServiceUninstall\ServiceUninstall.csproj", "{6B6AF672-D48F-474C-AA80-7D07AACA0E18}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,5 +18,13 @@ Global
 		{EE39B8A9-C231-448D-AEAD-AC5559573A3B}.Debug|x86.ActiveCfg = Debug|x86
 		{EE39B8A9-C231-448D-AEAD-AC5559573A3B}.Release|x86.Build.0 = Release|x86
 		{EE39B8A9-C231-448D-AEAD-AC5559573A3B}.Release|x86.ActiveCfg = Release|x86
+		{D4973F83-F85E-4462-9EE5-BC26B88BC5AE}.Debug|x86.Build.0 = Debug|x86
+		{D4973F83-F85E-4462-9EE5-BC26B88BC5AE}.Debug|x86.ActiveCfg = Debug|x86
+		{D4973F83-F85E-4462-9EE5-BC26B88BC5AE}.Release|x86.Build.0 = Release|x86
+		{D4973F83-F85E-4462-9EE5-BC26B88BC5AE}.Release|x86.ActiveCfg = Release|x86
+		{6B6AF672-D48F-474C-AA80-7D07AACA0E18}.Debug|x86.Build.0 = Debug|x86
+		{6B6AF672-D48F-474C-AA80-7D07AACA0E18}.Debug|x86.ActiveCfg = Debug|x86
+		{6B6AF672-D48F-474C-AA80-7D07AACA0E18}.Release|x86.Build.0 = Release|x86
+		{6B6AF672-D48F-474C-AA80-7D07AACA0E18}.Release|x86.ActiveCfg = Release|x86
 	EndGlobalSection
 EndGlobal

@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("AfraidDnsUpdater")]
-[assembly: AssemblyDescription("A system tray program for auto update Afraid.org Free DNS service.")]
+[assembly: AssemblyDescription("A system tray program for auto update Afraid.org dynamic DNS service.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Petros Kyladitis")]
 [assembly: AssemblyProduct("AfraidDnsUpdater")]
@@ -28,4 +28,4 @@ using System.Runtime.InteropServices;
 //
 // You can specify all the values or you can use the default the Revision and 
 // Build Numbers by using the '*' as shown below:
-[assembly: AssemblyVersion("1.0.*")]
+[assembly: AssemblyVersion("2.0.*")]
